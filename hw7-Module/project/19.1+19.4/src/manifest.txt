@@ -1,0 +1,4 @@
+Main-Class: Plugin
+Class-Path: first.jar interfaces.jar second.jar printers.jar
+
+

@@ -1,0 +1,7 @@
+CC = E - N + 2P
+E = No of edges = 52
+N = No of Nodes = 40
+P = 1
+CC = 52-40+2
+
+CC = 14
